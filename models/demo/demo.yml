@@ -10,9 +10,9 @@ models:
           - unique
           - not_null
           - accepted_values:
-              values: ['1','2','3','4','5']
+              arguments: ['1','2','3','4','5']
               config:
-                severity: warn
+                severity: Warn
       - name: emp_salary
         tests:
           - value_check
