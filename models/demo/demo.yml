@@ -18,7 +18,7 @@ models:
           - value_check
   - name: customer
     description: "DBT Model for the customer table"
-  - name: customer_vw
+  - name: customer_view
     description: "DBT model for the customer view"
   - name: sales
     description: :DBT Model for the sales table"
