@@ -4,7 +4,7 @@
 
     config(
 
-      target_database='PC_DBT_DB',
+      target_database='SCD2_DB',
 
       target_schema='snapshots',
 
